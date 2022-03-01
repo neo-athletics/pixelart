@@ -1,17 +1,9 @@
-# Pixel Art Maker Project
+# Pixel Art
 
-## Table of Contents
+Being able to utilize my fundamentals of JavaScript and apply them to this project. Helped me know what I know and what I need improvements in.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Its been a while since I had used eventlisteners. Since ReactJS handles the listening part and the user will just define the function. Also having to get the count of children elements from parent element. The count of the Nodes threw me off since the correct approach to my problem was to utilize the .children property rather than .childrenNodes.
 
-## Instructions
+# Future Feature
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-# pixelart
+-   Be able to color grid by clicking on mouse once and just hovering over grid
